@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619243452 source:h:\c\codefores_problems\codeforce\word\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
