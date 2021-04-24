@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619245069 source:h:\c\codefores_problems\codeforce\translation\main.c
+	<stdio.h>
+	<string.h>
+
