@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619621002 source:h:\c\codefores_problems\codeforce\magnets\main.c
+	<stdio.h>
+	<string.h>
+
