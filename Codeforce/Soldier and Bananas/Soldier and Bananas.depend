@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621658892 source:h:\c\codefores_problems\codeforce\soldier and bananas\main.c
+	<stdio.h>
+	<stdlib.h>
+
